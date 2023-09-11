@@ -54,4 +54,13 @@
     font-weight: 600;
 }
 
+@media (max-width: 900px) {
+    .imageportion {
+        padding: 10px 0 16px 16px;
+        display: flex;
+        flex-direction: column-reverse;
+        text-align: center;
+    }
+}
+
 /* Aniekans Style Sheet ends Here */
