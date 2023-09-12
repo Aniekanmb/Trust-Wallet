@@ -879,7 +879,8 @@ button:hover {
 .logoimgs {
   display: block;
 }
-.logoimgs img{
+
+.logoimgs img {
   height: 60px;
   width: 100px;
 }
