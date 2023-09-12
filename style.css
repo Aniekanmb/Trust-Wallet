@@ -153,14 +153,17 @@ a:hover {
   /* margin-top: 5rem; */
   margin-bottom: 5rem;
 }
-#aa{
+
+#aa {
   width: 150px;
   height: 40px;
 }
-#ab{
+
+#ab {
   display: block;
 
 }
+
 @media (max-width: 900px) {
   .trust-home-container {
     display: flex;
@@ -863,16 +866,32 @@ button:hover {
   }
 }
 
-.sixthportion{
+.sixthportion {
   display: flex;
   background-color: whitesmoke;
+  gap: 30rem;
 }
-.writing{
+
+.writing {
   display: block;
 }
-.logoimgs{
-  align-items: end;
+
+.logoimgs {
+  display: block;
 }
+.logoimgs img{
+  height: 60px;
+  width: 100px;
+}
+
+.imgdiv {
+  display: flex;
+}
+
+.extraimg {
+  display: flex;
+}
+
 /* Aniekans Style Sheet ends Here */
 
 /* Idara Ekpene's style sheet starts here */
