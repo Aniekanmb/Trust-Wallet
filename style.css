@@ -904,6 +904,9 @@ button:hover {
     display: block;
     background-color: whitesmoke;
   }
+  .imgdiv {
+    display: block;
+  }
 
   .extra {
     margin-left: 2rem;
@@ -912,6 +915,7 @@ button:hover {
   .logoimgs {
     display: block;
     margin-left: 6rem;
+    margin-top: 2rem;
   }
 }
 
